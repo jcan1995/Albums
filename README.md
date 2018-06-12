@@ -12,7 +12,7 @@ I created this application by following along Stephen Grider's course on Udemy "
 ![Screenshot](https://github.com/jcan1995/Albums/blob/master/screenshots/albums4.png)
 
 # Topics 
-Topics discusesd when creating this application were: 
+Topics that I've learned when creating this application were: 
 * Class Components
 * Functional Components
 * Lifecycle Methods

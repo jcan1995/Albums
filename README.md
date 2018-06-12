@@ -11,5 +11,14 @@ I created this application by following along Stephen Grider's course on Udemy "
 ![Screenshot](https://github.com/jcan1995/Albums/blob/master/screenshots/albums3.png)
 ![Screenshot](https://github.com/jcan1995/Albums/blob/master/screenshots/albums4.png)
 
-# What I Learned 
-
+# Topics 
+Topics discusesd when creating this application were: 
+* Class Components
+* Functional Components
+* Lifecycle Methods
+* State
+* Props
+* Event handling
+* Conditional rendering
+* HTTP requests with Axios
+* Debugging in React Native

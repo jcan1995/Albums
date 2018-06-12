@@ -22,3 +22,4 @@ Topics discusesd when creating this application were:
 * Conditional rendering
 * HTTP requests with Axios
 * Debugging in React Native
+* Styling in React Native
